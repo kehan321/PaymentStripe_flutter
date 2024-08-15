@@ -1,0 +1,2 @@
+const stripe_PulishableKey = "pk_test_51Po1MkIvfCu4hzCZOUvAC4UmgbzIPwcNSqLODHqas4QXQaXPfW2wQmZs8JcVdIgc2S1YEf6fHNcShWUcPOkoOu0200cMsbYbzk";
+const strip_SecretKe = "sk_test_51Po1MkIvfCu4hzCZMZaNMiwzMqayhWyQwofyPvhzX3rRzklYtA4YPKTeYl48EZEAM8nbhSPJtYV0z7hQ34FqkH3D006QCezCZ2";
